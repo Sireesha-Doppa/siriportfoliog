@@ -1,0 +1,111 @@
+.cover{
+    background-image:url("https://www.uplers.com/wp-content/uploads/2021/12/full-stack-web-developers.png");
+    background-size:cover;
+    height:100vh;
+}
+.home-text{
+    text-align:left;
+    margin-top:150px;    
+}
+.about-container{
+    background-color:rgb(70, 71, 172);
+    background-size:cover;
+    height:100vh;
+}
+.about-text{
+    text-align:left;
+    margin-top:150px;
+    text-align:justify;
+}
+.image2{
+    height:360px;
+    width:300px;
+    margin-top:120px;
+    margin-left:50px;
+}
+.projectimage1{
+    margin-top:50px;
+    margin-right:20px;
+    height:260px;
+    width:450px;
+    border:2px solid white;
+    border-radius:15px;
+}
+.projectimage2{
+    margin-top:50px;
+    margin-right:20px;
+    height:260px;
+    width:450px;
+    border:2px solid white;
+    border-radius:15px;
+
+}
+.projectimage3{
+    margin-top:50px;
+    height:260px;
+    width:450px;
+    border:2px solid white;
+    border-radius:15px;
+
+}
+.caption{
+    color:white;
+    font-size:25px;
+    text-align:center;
+}
+
+.projects-container {
+    background-color:rgb(37, 65, 150);
+    padding:30px;
+    background-size:cover;
+    height:100vh;
+
+}
+.achievementcontainer{
+    background-color:rgb(70, 71, 172);
+    background-size:cover;
+    height:100vh;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+}
+.image1{
+    height:100px;
+    width:120px;
+    margin:20px;
+    float:right;
+    border-radius:50%;
+}
+
+.achievement-paragraph{
+    font-size:25px;
+    color:white;
+}
+.achievementtext{
+    border:solid 1px white;
+    padding:10px;
+    border-radius:7px;
+    margin:20px;
+}
+
+.contactcontainer{
+    background-color:rgb(37, 65, 150);
+    background-size:cover;
+    height:100vh; 
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+}
+.contactheading{
+    font-size:30px;
+    color:white;
+}
+.contactparagraph{
+    font-size:22px;
+    color:white;
+}
+.icon-container{
+    height:20px;
+    width:20px;
+    color:white;
+}
